@@ -8,7 +8,7 @@ Create the project in C. Simulation the Hello World
 
 int main()
 {
-	printf("Hello Daniel Sam");
+	printf("Hello Daniel Sam, Todo bien?");
 
 	return (0);
 }
